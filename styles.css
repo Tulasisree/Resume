@@ -1,0 +1,43 @@
+.p1{
+    font-family: 'Righteous', cursive;
+    color: rgb(252, 100, 130);
+    color: rgb(181, 233, 38);
+    font-size: 60px;
+}
+
+
+#p2{
+    color: rgb(236, 240, 240);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px
+}
+
+.fab{
+    color: white;
+    margin-right: 20px;
+}
+
+.sub{
+    color: rgb(136, 136, 136);
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(143, 141, 138);
+    font-family: 'Courgette', cursive;
+}
+
+.row{
+    margin: 30px;
+}
+
+.check{
+    width: 20px;
+    height: 20px;
+}
